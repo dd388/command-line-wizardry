@@ -15,7 +15,7 @@ Your target arrangement looks like this:
 and so on.
 
 Each folder presents a slight variation on the problem, but your output should be the same. They're roughly ordered on a scale of spiciness, from least to most spicy:
-* [jalepeno]
-* [serrano]
-* [cayenne]
-* [habanero]
+* [jalepeno](jalepeno "Least spicy task") - Move items out of `PreservationMaster` and `WebCopy`
+* [serrano](serrano "Spicier indeed") - Same as above, but now contend with spaces in filenames. `Preservation Master` and `Web Copy`
+* [cayenne](cayenne "Even spicier") - Now you actually also have to make the folders, too
+* [habanero](habanero "Super spicy task") - I think it's more fun if you figure out on your own what's tricky about this one
