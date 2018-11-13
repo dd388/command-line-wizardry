@@ -34,7 +34,7 @@ _Hint: You can't solve this with one command. In fact, you'll probably find your
 Your goal: Remove the spaces from the filenames. Depending on how you ambitious you feel, there are two ways you can do this.
 
 * Starter: Rename JPGs to the following format:
-    Book_0123_001.jpg
+    `Book_0123_001.jpg`
 
 * Fancy: Rename JPGs to the following format:
-    Book0123_001.jpg
+    `Book0123_001.jpg`
