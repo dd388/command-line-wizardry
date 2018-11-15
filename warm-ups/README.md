@@ -31,7 +31,7 @@ _Hint: You can't solve this with one command. In fact, you'll probably find your
 
 ## [Removing Spaces from Filenames](spaces "Removing Spaces from Filenames Warm-Up")
 
-Your goal: Remove the spaces from the filenames. Depending on how you ambitious you feel, there are two ways you can do this.
+Your goal: Remove the spaces from the filenames and replace them with another delimiter. Depending on how you ambitious you feel, there are two ways you can do this.
 
 * Starter: Rename JPGs to the following format:
     `Book_0123_001.jpg`
