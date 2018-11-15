@@ -5,4 +5,8 @@ Here are a series of warm-ups and drills for various batch renaming tasks. Ideal
 
 In [warm-ups](warm-ups), you'll find two tasks that will ready you for the [refoldering drills](refoldering). Stay the course, do not panic, consult some [handy guides](http://dd388.github.io/crals/ "Script Ahoy"), and remember to make lots of mistakes along the way.
 
-`reset.sh` should reset the files to their original state.
+`./reset.sh` should reset the files to their original state.
+
+## goofs
+
+Submit an issue if there is something amiss with the testing files. Sometimes, this prompts the creation of additional exercises!
